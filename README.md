@@ -1,6 +1,12 @@
 # Weather-App
 
-Build a simple weather forecasting application using Node.js.
+Build a simple weather forecasting application using Node.js, using different API's.
+
+
+Geocode API: OpenCage Geocoder API
+
+Geocode API: Dark Sky API
+
 
 ## Steps to Setup
 
@@ -13,7 +19,7 @@ npm install
 2. Run Command
 
 ```bash
-node index.js
+node index.js -a " { Your Address } "
 ```
 
 ## Commands
